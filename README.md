@@ -1,6 +1,6 @@
 # The Duel – Legal
 
-Öffentliche Rechtstexte zur Android-App **The Duel** (`de.sebheider.theduel`).
+Öffentliche Rechtstexte zur Android-App **The Duel** (`de.sebhei.theduel`).
 
 - Datenschutzerklärung / Privacy Policy: <https://sebheider.github.io/theduel-legal/>
 
